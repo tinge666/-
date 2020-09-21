@@ -57,9 +57,9 @@
     由于本人入门时，并没有看过相关教程，  
     根据引擎官网，手册引导一步步自学的  
     个人觉得比较好的一些教程  
-    [点击](http://c.biancheng.net/unity3d/)unity相关,多平台，原生和5h小游戏开发都支持  
+    [点击](http://c.biancheng.net/unity3d/)unity相关,多平台，原生和h5小游戏开发都支持  
     [点击](https://edu.51cto.com/course/575.html)cocos2dx相关，一般用于原生app开发，例如开发安卓游戏和ios游戏  
-    [点击](https://ke.qq.com/course/266630)cococreaor3d相关，多平台，原生和5h小游戏开发都支持   
+    [点击](https://ke.qq.com/course/266630)cococreaor3d相关，多平台，原生和h5小游戏开发都支持   
     [点击](https://github.com/caochao/cocos_creator_proj_base)简单的cocoscreate框架 
 
     以上链接只是个人，发现比较好的新手教程，具体可以自行百度搜索指定引擎教程
