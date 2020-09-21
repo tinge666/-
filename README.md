@@ -67,6 +67,6 @@
 # 个人对部分游戏引擎的分析
 1. Three.js相关![](./Three.js.png)
 
-1. Pixi.js相关![](./PixiJS.png)
+1. Pixi.js相关![](https://github.com/tinge666/-/blob/master/PixiJS.png)
 
 
