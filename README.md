@@ -65,8 +65,8 @@
     以上链接只是个人，发现比较好的新手教程，具体可以自行百度搜索指定引擎教程
 
 # 个人对部分游戏引擎的分析
-1. Three.js相关<img src="./Three.js.png">
+1. Three.js相关<img src="https://img-blog.csdnimg.cn/20200921235201827.png">
 
-1. Pixi.js相关<img src="https://github.com/tinge666/-/blob/master/PixiJS.png">
+1. Pixi.js相关<img src="https://img-blog.csdnimg.cn/20200921235219312.png">
 
 
